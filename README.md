@@ -28,4 +28,14 @@ $ npm install --save-dev typescript @types/react @types/react-native @types/styl
 
 ```
 $ npm install --save react-navigation react-native-gesture-handler react-native-reanimated
+$ cd ios
+$ pod install
+```
+
+#### 4. Async Storage 관련 라이브러리 설치
+
+```
+$ npm install --save @react-native-community/async-storage
+$ cd ios
+$ pod install
 ```
