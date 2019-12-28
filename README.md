@@ -23,3 +23,9 @@ $ react-native init smoothie_rn_sns
 $ npm install --save styled-components
 $ npm install --save-dev typescript @types/react @types/react-native @types/styled-components babel-plugin-root-import
 ```
+
+#### 3. React Native Navigation 관련 라이브러리 설치
+
+```
+$ npm install --save react-navigation react-native-gesture-handler react-native-reanimated
+```
