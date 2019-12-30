@@ -48,3 +48,11 @@ $ pod install
 $ yo rn-toolbox:assets --icon ./src/assets/images/app_icon.png
 $ yo rn-toolbox:assets --splash ./src/assets/images/app_splash.psd
 ```
+
+#### 6. react navigation 추가 네이게이션 셋팅
+
+```
+$ yarn add react-navigation-stack
+$ yarn add react-navigation-tabs
+$ yarn add react-navigation-drawer
+```
