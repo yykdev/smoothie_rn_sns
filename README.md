@@ -41,3 +41,10 @@ $ npm install --save @react-native-community/async-storage
 $ cd ios
 $ pod install
 ```
+
+#### 5. icon, splash 이미지 셋팅
+
+```
+$ yo rn-toolbox:assets --icon ./src/assets/images/app_icon.png
+$ yo rn-toolbox:assets --splash ./src/assets/images/app_splash.psd
+```
